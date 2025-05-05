@@ -27,10 +27,10 @@ ShikshaPath is a modular system with **4 smart components** that work even on sl
 
 | Component | What It Does | Try It Out |
 |----------|---------------|------------|
-| 🧠 **Learning Style Quiz** | Helps students discover if they’re visual, audio, text, or hands-on learners. | [Take the Quiz](https://learn-style-ai-quiz.lovable.app) |
-| 🗣 **Language & Voice Layer** | Auto-translates lessons to Indian languages (text + voice). Powered by Bhasini + Whisper. | [Try the Translator](https://audiospeak-multiverse-translate.lovable.app) |
-| 📊 **Student Dashboard** | Tracks marks, learning style, and sends alerts when students struggle. | [View Student Dashboard](https://student-dashboard-amature.netlify.app) |
-| 🧑‍🏫 **Teacher Dashboard** | Suggests the best teaching method for every class. Saves hours of prep time. | *Coming Soon* |
+| 🧠 **Learning Style Quiz** | Helps students discover if they’re visual, audio, text, or hands-on learners. |
+| 🗣 **Language & Voice Layer** | Auto-translates lessons to Indian languages (text + voice). Powered by Bhasini + Whisper. |
+| 📊 **Student Dashboard** | Tracks marks, learning style, and sends alerts when students struggle. |
+| 🧑‍🏫 **Teacher Dashboard** | Suggests the best teaching method for every class. Saves hours of prep time. | 
 
 ---
 
